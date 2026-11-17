@@ -29,10 +29,11 @@ Training and comparing image classifiers, with VGG as the baseline and ResNet as
 
 ## Skills
 
-- **Data and ML:** Python (scikit-learn, NLTK), R, SQL · classification, regression, NLP, time series, statistical
-  modelling, deep learning (VGG, ResNet)
-- **MLOps:** MLflow, FastAPI, Docker, GitHub Actions, Git
-- **Also:** PostgreSQL, TypeScript, React, Excel and Google Sheets, AI coding agents (Claude Code)
+- **Data and ML:** Python (PyTorch, scikit-learn, NLTK), R, SQL · classification, regression, NLP, time series,
+  statistical modelling, deep learning (CNNs: VGG, ResNet)
+- **MLOps:** FastAPI, Docker, GitHub Actions, Git · MLflow (basic)
+- **Also:** PostgreSQL, Excel and Google Sheets, AI coding agents (Claude Code)
+- **Basic:** TypeScript, React, Node.js, C++
 
 ## Contact
 
